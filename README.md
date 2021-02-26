@@ -18,9 +18,9 @@ React
 
 
 ## Usage
-![Directory screenshot](./assets/images/Screenshotusers.png)
+![Directory screenshot](./public/assets/images/Screenshotusers.png)
 
-![Search screenshot](./assets/images/Screenshotsearch.png)
+![Search screenshot](./public/assets/images/Screenshotsearch.png)
 
 
 ## Maintainer
