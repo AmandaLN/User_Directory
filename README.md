@@ -4,7 +4,7 @@ This React app lets users be able to view their entire employee directory at onc
 
 *https://github.com/AmandaLN/user_directory
 
-*
+*https://amandaln.github.io/user_directory/
 
 
 ## Technologies
